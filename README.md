@@ -286,16 +286,20 @@
 <a href = "mailto:mustafaaltas06@outlook.com" targer = "_blank"> <img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/gmail.png" width="50px"></a>
 
 
-[![D1183-Mustafa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=D1183-Mustafa&theme=tokyonight)](https://git.io/praveenscience)
+[![Cem İspirli's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cemispirli&theme=algolia)](https://git.io/praveenscience)
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=D1183-Mustafa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D1183-Mustafa&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cemispirli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cemispirli&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cemispirli&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cemispirli&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img  height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemispirli&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
-<p align="right"><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/kedi.gif" width="70px"> <img src="https://komarev.com/ghpvc/?username=D1183-Mustafa"            alt="D1183-Mustafa" /> </p>
+
 
 
 
