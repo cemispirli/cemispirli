@@ -274,8 +274,7 @@
 
 
 <h2>🛠 &nbsp;Tech Stack</h2>
-<p><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/tools2.png"></p>
-<p><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/tools.png"></p>
+
 
 <br>
 
@@ -286,18 +285,12 @@
 <a href = "mailto:mustafaaltas06@outlook.com" targer = "_blank"> <img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/gmail.png" width="50px"></a>
 
 
-[![Cem İspirli's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cemispirli&theme=algolia)](https://git.io/praveenscience)
+[![Cem İspirli's github activity graph](https://activity-graph.herokuapp.com/graph?username=cemispirli&theme=nord)](https://github.com/cemispirli/github-readme-activity-graph)
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cemispirli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cemispirli&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cemispirli&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cemispirli&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img  height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemispirli&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cemispirli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> &nbsp;
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cemispirli&theme=algolia" alt="my commit status" /> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cemispirli&layout=compact&langs_count=8&theme=algolia"/> </p>
 
 
 
@@ -343,10 +336,7 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
 </p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SofiaAcar&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SofiaAcar&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaAcar&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
 
 
 
