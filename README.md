@@ -52,8 +52,8 @@
 ## :fire: My Stats :
  
 <p align="center">
-<img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=cemispirli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> &nbsp 
-<img height="180em"  src="http://github-readme-streak-stats.herokuapp.com?user=cemispirli&theme=algolia" alt="my commit status" /> </p>
-<p align="center"> <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cemispirli&layout=compact&langs_count=8&theme=algolia"/> </p>
+<img height="170em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=cemispirli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> &nbsp 
+<img height="170em"  src="http://github-readme-streak-stats.herokuapp.com?user=cemispirli&theme=algolia" alt="my commit status" /> </p>
+<p align="center"> <img height="170em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cemispirli&layout=compact&langs_count=8&theme=algolia"/> </p>
                                                                      
 
