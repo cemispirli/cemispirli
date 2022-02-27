@@ -47,7 +47,7 @@
  
                                                                                                
 ## :star2: My Projects: 
-- <a href="https://d1183-mustafa.github.io/HTML-CSS-Sat-s-sozlesmesi/" target="_blank" >HTML-CSS-Satış-sozlesmesi-Project</a>                                                                                                                                     
+<!-- - <a href="https://d1183-mustafa.github.io/HTML-CSS-Sat-s-sozlesmesi/" target="_blank" >HTML-CSS-Satış-sozlesmesi-Project</a> -->                                                                                                                                     
                                                                                                                                
 ## :fire: My Stats :
  
