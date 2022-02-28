@@ -27,8 +27,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" title="Django" alt="Django" width="70" height="70"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codepen/codepen-plain.svg" title="Codepen" alt="Codepen" width="70" height="70"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/573px-SQLite370.svg.png?20140602232932" title="SQLite"  alt="SQLite" width="160" height="76"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="70" height="70"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/573px-SQLite370.svg.png?20140602232932" title="SQLite"  alt="SQLite" width="160" height="76"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original-wordmark.svg" title="Jira"  alt="Jira" width="70" height="70"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="70" height="70"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="70" height="70"/>&nbsp;
