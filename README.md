@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://www.icegif.com/wp-content/uploads/icegif-87.gif" width="600" height="200" />
-</div>
+</div> -->
 
 ## Hi there. I'm Cem...:wave:
 - :house: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
