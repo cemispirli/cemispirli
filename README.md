@@ -43,6 +43,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-plain-wordmark.svg" title="Heroku"  alt="Heroku" width="70" height="70"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg" title="Wordpress"  alt="Wordpress" width="70" height="70"/>&nbsp;
     <img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" title="Netlify"  alt="Netlify" width="160" height="100"/>&nbsp;
+    <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" title="Postman"  alt=Postman" width="60" height="60"/>&nbsp;                                                                                                                                
+                                                                                                                                    
+ 
 </div>
                                                                                                                                     
  
