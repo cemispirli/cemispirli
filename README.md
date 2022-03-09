@@ -53,7 +53,7 @@
 ## :star2: My Projects: 
 
 
-- <a href="https://cemispirli.github.io/Survey-Form-Clarusway/" target="_blank" >HTML-CSS-Survey-Form-Clarusway</a>                                                                                                                                    
+- <a href="https://cemispirli.github.io/Survey-Form-Clarusway/" target="blank" >HTML-CSS-Survey-Form-Clarusway</a>                                                                                                                                    
                                                                                                                                
 ## :fire: My Stats :
  
