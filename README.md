@@ -51,29 +51,29 @@
  
                                                                                                
 ## :star2: My Projects: 
-<!-- - <a href="https://cemispirli.github.io/Team-Members-Page/" target="_blank" >Team Members Page/</a> -->
+<!-- - <a href="https://cemispirli.github.io/Team-Members-Page/" target="_blank" >Team Members Page</a> -->
 
-- <a href="https://cemispirli.github.io/Team-Members-Page/" target="_blank" >Team Members Page/</a>
-- <a href="https://cemispirli.github.io/Css-Grid//" target="_blank" >Css Grid/</a>
-- <a href="https://cemispirli.github.io/Sass-Project/" target="_blank" >Sass Project/</a>
-- <a href="https://cemispirli.github.io/Checkout-Page/" target="_blank" >Checkout Page and Shopping Bag/</a>
-- <a href="https://cemispirli.github.io/Palindromic-and-Perfect-Numbers/" target="_blank" >Palindromic and Perfect Numbers/</a>
-- <a href="https://cemispirli.github.io/IOS-Calculator/" target="_blank" >IOS Calculator/</a>
-- <a href="https://cemispirli.github.io/ToDo-App/" target="_blank" >ToDo App/</a>
-- <a href="https://cemispirli.github.io/Find-The-Number-Game/" target="_blank" >Find The Number Game/</a>
-- <a href="https://cemispirli.github.io/Lottery-Game/" target="_blank" >Lottery Game/</a>
-- <a href="https://cemispirli.github.io/Capital-Letters/" target="_blank" >Capital Letters/</a>
-- <a href="https://cemispirli.github.io/Draw-Diamond/" target="_blank" >Draw Diamond/</a>
+- <a href="https://cemispirli.github.io/Team-Members-Page/" target="_blank" >Team Members Page</a>
+- <a href="https://cemispirli.github.io/Css-Grid//" target="_blank" >Css Grid</a>
+- <a href="https://cemispirli.github.io/Sass-Project/" target="_blank" >Sass Project</a>
+- <a href="https://cemispirli.github.io/Checkout-Page/" target="_blank" >Checkout Page and Shopping Bag</a>
+- <a href="https://cemispirli.github.io/Palindromic-and-Perfect-Numbers/" target="_blank" >Palindromic and Perfect Numbers</a>
+- <a href="https://cemispirli.github.io/IOS-Calculator/" target="_blank" >IOS Calculator</a>
+- <a href="https://cemispirli.github.io/ToDo-App/" target="_blank" >ToDo App</a>
+- <a href="https://cemispirli.github.io/Find-The-Number-Game/" target="_blank" >Find The Number Game</a>
+- <a href="https://cemispirli.github.io/Lottery-Game/" target="_blank" >Lottery Game</a>
+- <a href="https://cemispirli.github.io/Capital-Letters/" target="_blank" >Capital Letters</a>
+- <a href="https://cemispirli.github.io/Draw-Diamond/" target="_blank" >Draw Diamond</a>
 - <a href="https://github.com/cemispirli/Email-Validation" target="_blank" >Email Validation</a>
-- <a href="https://cemispirli.github.io/Simple-Calculator/" target="_blank" >Simple Calculator/</a>
-- <a href="https://cemispirli.github.io/Website-Page-Design/" target="_blank" >Website Page Design/</a>
-- <a href="https://cemispirli.github.io/Exact-Age-Calculator/" target="_blank" >Exact Age Calculator/</a>
-- <a href="https://cemispirli.github.io/Checkout-Form/" target="_blank" >Checkout Form/</a>
+- <a href="https://cemispirli.github.io/Simple-Calculator/" target="_blank" >Simple Calculator</a>
+- <a href="https://cemispirli.github.io/Website-Page-Design/" target="_blank" >Website Page Design</a>
+- <a href="https://cemispirli.github.io/Exact-Age-Calculator/" target="_blank" >Exact Age Calculator</a>
+- <a href="https://cemispirli.github.io/Checkout-Form/" target="_blank" >Checkout Form</a>
 - <a href="https://github.com/cemispirli/Fibonacci-Number" target="_blank" >Fibonacci Number</a>
 - <a href="https://github.com/cemispirli/Reverse-Words" target="_blank" >Reverse Words</a>
-- <a href="https://cemispirli.github.io/Parallax-Website//" target="_blank" >Parallax Website/</a>
-- <a href="https://cemispirli.github.io/Css-Blog/" target="_blank" >Css Blog/</a>
-- <a href="https://cemispirli.github.io/Google-Landing-Page/" target="_blank" >Google Landing Page/</a>
+- <a href="https://cemispirli.github.io/Parallax-Website//" target="_blank" >Parallax Website</a>
+- <a href="https://cemispirli.github.io/Css-Blog/" target="_blank" >Css Blog</a>
+- <a href="https://cemispirli.github.io/Google-Landing-Page/" target="_blank" >Google Landing Page</a>
 - <a href="https://cemispirli.github.io/Survey-Form-Clarusway/" target="_blank" >HTML-CSS-Survey-Form-Clarusway</a>
 - <a href="https://cemispirli.github.io/Survey-Form-Netflix/" target="_blank" >Survey Form Netflix</a>
 
