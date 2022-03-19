@@ -90,4 +90,4 @@
 <p align="center"> <img height="160em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cemispirli&layout=compact&langs_count=8&theme=algolia"/> </p>
                                                                      
 
-[![Image of https://github.com/cemispirli/github-profile-views-counter](https://github.com/cemispirli/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/cemispirli/github-profile-views-counter)
+<!-- [![Image of https://github.com/cemispirli/github-profile-views-counter](https://github.com/cemispirli/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/cemispirli/github-profile-views-counter) -->
