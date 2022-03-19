@@ -5,16 +5,17 @@
 ## Hi there. I'm Cem...:wave:
 - :house: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
 - :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
 
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemispirli/)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@cemispirli08)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:cemispirli08@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cemispirli" alt="cemispirli" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cemispirli" alt="cemispirli"/></p>
+<!-- [![Image of https://github.com/cemispirli/github-profile-views-counter](https://github.com/cemispirli/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/cemispirli/github-profile-views-counter) -->
+
 
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -89,3 +90,4 @@
 <p align="center"> <img height="160em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cemispirli&layout=compact&langs_count=8&theme=algolia"/> </p>
                                                                      
 
+[![Image of https://github.com/cemispirli/github-profile-views-counter](https://github.com/cemispirli/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/cemispirli/github-profile-views-counter)
