@@ -23,10 +23,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70""/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="70" height="70"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="70"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp; -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="70" height="70"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" wwidth="70" height="70"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" title="Django" alt="Django" width="70" height="70"/>&nbsp;
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" title="Django" alt="Django" width="70" height="70"/>&nbsp; -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codepen/codepen-plain.svg" title="Codepen" alt="Codepen" width="70" height="70"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="70" height="70"/>&nbsp;
@@ -39,11 +39,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="70" height="70"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/slack/slack-original-wordmark.svg" title="Slack"  alt="Slack" width="100" height="100"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" title="Vscode"  alt="Vscode" width="70" height="70"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="70" height="70"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-plain-wordmark.svg" title="Heroku"  alt="Heroku" width="70" height="70"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg" title="Wordpress"  alt="Wordpress" width="70" height="70"/>&nbsp;
-    <img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" title="Netlify"  alt="Netlify" width="160" height="100"/>&nbsp;
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp; -->
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="70" height="70"/>&nbsp; -->
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-plain-wordmark.svg" title="Heroku"  alt="Heroku" width="70" height="70"/>&nbsp; -->
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg" title="Wordpress"  alt="Wordpress" width="70" height="70"/>&nbsp; -->
+<!--     <img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" title="Netlify"  alt="Netlify" width="160" height="100"/>&nbsp; -->
     <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" title="Postman"  alt=Postman" width="60" height="60"/>&nbsp;                                                                                                                                
                                                                                                                                     
  
@@ -54,11 +54,10 @@
 ## :star2: My Projects: 
 
  
-- <a href="https://cemispirli.github.io/Bootstrap-Clarusway-School-Project/" target="_blank" >Bootstrap Clarusway School Project</a>
+<!--  ### ⭐ React: -->
+ 
+ ### ⭐ JavaScript:
 - <a href="https://cemispirli.github.io/Digital-Clock/" target="_blank" >Digital Clock</a>
-- <a href="https://cemispirli.github.io/Team-Members-Page/" target="_blank" >Team Members Page</a>
-- <a href="https://cemispirli.github.io/Css-Grid//" target="_blank" >Css Grid</a>
-- <a href="https://cemispirli.github.io/Sass-Project/" target="_blank" >Sass Project</a>
 - <a href="https://cemispirli.github.io/Checkout-Page/" target="_blank" >Checkout Page and Shopping Bag</a>
 - <a href="https://cemispirli.github.io/Palindromic-and-Perfect-Numbers/" target="_blank" >Palindromic and Perfect Numbers</a>
 - <a href="https://cemispirli.github.io/IOS-Calculator/" target="_blank" >IOS Calculator</a>
@@ -69,11 +68,18 @@
 - <a href="https://cemispirli.github.io/Draw-Diamond/" target="_blank" >Draw Diamond</a>
 - <a href="https://github.com/cemispirli/Email-Validation" target="_blank" >Email Validation</a>
 - <a href="https://cemispirli.github.io/Simple-Calculator/" target="_blank" >Simple Calculator</a>
-- <a href="https://cemispirli.github.io/Website-Page-Design/" target="_blank" >Website Page Design</a>
 - <a href="https://cemispirli.github.io/Exact-Age-Calculator/" target="_blank" >Exact Age Calculator</a>
-- <a href="https://cemispirli.github.io/Checkout-Form/" target="_blank" >Checkout Form</a>
 - <a href="https://github.com/cemispirli/Fibonacci-Number" target="_blank" >Fibonacci Number</a>
 - <a href="https://github.com/cemispirli/Reverse-Words" target="_blank" >Reverse Words</a>
+
+
+ ### ⭐ Html-Css-Bootstrap-Sass:
+- <a href="https://cemispirli.github.io/Bootstrap-Clarusway-School-Project/" target="_blank" >Bootstrap Clarusway School Project</a>
+- <a href="https://cemispirli.github.io/Team-Members-Page/" target="_blank" >Team Members Page</a>
+- <a href="https://cemispirli.github.io/Css-Grid//" target="_blank" >Css Grid</a>
+- <a href="https://cemispirli.github.io/Sass-Project/" target="_blank" >Sass Project</a>
+- <a href="https://cemispirli.github.io/Website-Page-Design/" target="_blank" >Website Page Design</a>
+- <a href="https://cemispirli.github.io/Checkout-Form/" target="_blank" >Checkout Form</a>
 - <a href="https://cemispirli.github.io/Parallax-Website//" target="_blank" >Parallax Website</a>
 - <a href="https://cemispirli.github.io/Css-Blog/" target="_blank" >Css Blog</a>
 - <a href="https://cemispirli.github.io/Google-Landing-Page/" target="_blank" >Google Landing Page</a>
