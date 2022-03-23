@@ -57,6 +57,13 @@
 <!--  ### ⭐ React: -->
  
  ### ⭐ JavaScript:
+ 
+ 
+ 
+- <a href="https://cemispirli.github.io/Jquery-Weather-App/" target="_blank" >Jquery Weather App</a>
+- <a href="https://cemispirli.github.io/Country-Information-Project/" target="_blank" >Country Information Project</a>
+- <a href="https://cemispirli.github.io/StopWatch/" target="_blank" >StopWatch</a>
+- <a href="https://cemispirli.github.io/Weather_App/" target="_blank" >Weather App</a> 
 - <a href="https://cemispirli.github.io/Digital-Clock/" target="_blank" >Digital Clock</a>
 - <a href="https://cemispirli.github.io/Checkout-Page/" target="_blank" >Checkout Page and Shopping Bag</a>
 - <a href="https://cemispirli.github.io/Palindromic-and-Perfect-Numbers/" target="_blank" >Palindromic and Perfect Numbers</a>
@@ -71,6 +78,7 @@
 - <a href="https://cemispirli.github.io/Exact-Age-Calculator/" target="_blank" >Exact Age Calculator</a>
 - <a href="https://github.com/cemispirli/Fibonacci-Number" target="_blank" >Fibonacci Number</a>
 - <a href="https://github.com/cemispirli/Reverse-Words" target="_blank" >Reverse Words</a>
+- <a href="https://github.com/cemispirli/Bracket-Validator" target="_blank" >Bracket Validator</a>
 
 
  ### ⭐ Html-Css-Bootstrap-Sass:
