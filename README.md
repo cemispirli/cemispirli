@@ -27,10 +27,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="70" height="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="70" height="70"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="70" height="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original-wordmark.svg" title="Jira"  alt="Jira" width="70" height="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="70" height="70"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="70" height="70"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="70" height="70"/>&nbsp;
 <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" title="Postman"  alt=Postman" width="60" height="60"/>&nbsp;
 <img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" title="Netlify"  alt="Netlify" width="160" height="100"/>&nbsp;
