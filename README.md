@@ -52,10 +52,10 @@
                                                                                                
 ## :star2: My Projects: 
 
- 
+<!--  
  ### ⭐ React:
  
- - <a href="https://cemispirli.github.io/React-Tour-Project/" target="_blank" >React Tour Project</a>
+ - <a href="https://cemispirli.github.io/React-Tour-Project/" target="_blank" >React Tour Project</a> -->
  
  ### ⭐ JavaScript:
  
