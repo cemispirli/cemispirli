@@ -55,7 +55,7 @@
  
  ### ⭐ React:
  
- - <a href="https://cemispirli-tour-project.netlify.app/" target="_blank" >React Tour Project</a>
+ - <a href="https://cemispirli.github.io/tour-project/" target="_blank" >React Tour Project</a>
  
  ### ⭐ JavaScript:
  
