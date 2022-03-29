@@ -60,10 +60,11 @@
  
  ### ⭐ JavaScript:
  
- 
+
  
 - <a href="https://cemispirli.github.io/Jquery-Weather-App/" target="_blank" >Jquery Weather App</a>
 - <a href="https://cemispirli.github.io/Country-Information-Project/" target="_blank" >Country Information Project</a>
+- <a href="https://cemispirli.github.io/Movie-Seat-App/" target="_blank" >Movie Seat App</a>
 - <a href="https://cemispirli.github.io/StopWatch/" target="_blank" >StopWatch</a>
 - <a href="https://cemispirli.github.io/Weather_App/" target="_blank" >Weather App</a> 
 - <a href="https://cemispirli.github.io/Digital-Clock/" target="_blank" >Digital Clock</a>
