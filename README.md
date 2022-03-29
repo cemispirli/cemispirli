@@ -13,10 +13,10 @@
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@cemispirli08)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:cemispirli08@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cemispirli" alt="cemispirli"/></p>
-<!-- [![Image of https://github.com/cemispirli/github-profile-views-counter](https://github.com/cemispirli/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/cemispirli/github-profile-views-counter) -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemispirli" alt="cemispirli"/></p> -->
 
 
+[![Image of https://github.com/cemispirli/github-profile-views-counter](https://github.com/cemispirli/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/cemispirli/github-profile-views-counter)
 ## :hammer_and_wrench: Languages and Tools :
 
 <div >
@@ -52,9 +52,10 @@
                                                                                                
 ## :star2: My Projects: 
 
- 
+
  ### ⭐ React:
  
+ - <a href="https://cemispirli.github.io/language-cards/" target="_blank" >Language Cards</a>
  - <a href="https://cemispirli.github.io/tour-project/" target="_blank" >React Tour Project</a>
  
  ### ⭐ JavaScript:
@@ -97,7 +98,7 @@
 
                                                                                                                                    
                                                                                                                                
-## :fire: My Stats :
+## :fire: My Statistics :
  
 <p align="center">
 <img height="160em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=cemispirli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> &nbsp 
