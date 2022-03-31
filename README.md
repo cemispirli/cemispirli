@@ -57,8 +57,10 @@
  
  
  - <a href="https://cemispirli.github.io/task-tracker/" target="_blank" >Task Tracker</a>
- - <a href="https://cemispirli.github.io/language-cards/" target="_blank" >Language Cards</a>
+ - <a href="https://cemispirli.github.io/language-cards/" target="_blank" >Language Cards</a>                                                                       
  - <a href="https://cemispirli.github.io/tour-project/" target="_blank" >React Tour Project</a>
+ - <a href="https://cemispirli.github.io/birthdayreminder/" target="_blank" >Birthday Reminder</a>  
+                                                                       
  
  ### ⭐ JavaScript:
  
