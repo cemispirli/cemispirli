@@ -56,7 +56,7 @@
  ### ⭐ React:
  
  
- - <a href="https://recipe-app-github.netlify.app/" target="_blank" >Recipe App</a>
+ - <a href="https://cemispirli.github.io/recipe-app/" target="_blank" >Recipe App</a>
  - <a href="https://cemispirli.github.io/random-user-app/" target="_blank" >Random User App</a>
  - <a href="https://cemispirli.github.io/task-tracker/" target="_blank" >Task Tracker</a>
  - <a href="https://cemispirli.github.io/language-cards/" target="_blank" >Language Cards</a>                                                                       
