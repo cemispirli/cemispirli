@@ -57,6 +57,8 @@
  ### ⭐ React:
  
  
+ 
+ - <a href="https://firebase-movie-app.netlify.app/" target="_blank" >Firebase Movie App</a>
  - <a href="https://recipe-app-github.netlify.app/" target="_blank" >Recipe App</a>
  - <a href="https://cemispirli.github.io/random-user-app/" target="_blank" >Random User App</a>
  - <a href="https://cemispirli.github.io/task-tracker/" target="_blank" >Task Tracker</a>
