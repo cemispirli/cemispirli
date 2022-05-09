@@ -59,6 +59,7 @@
  
  
  
+ - <a href="https://random-user-app8.netlify.app/" target="_blank" >Random User App 2</a>
  - <a href="https://firebase-movie-app.netlify.app/" target="_blank" >Firebase Movie App</a>
  - <a href="https://recipe-app-github.netlify.app/" target="_blank" >Recipe App</a>
  - <a href="https://cemispirli.github.io/random-user-app/" target="_blank" >Random User App</a>
