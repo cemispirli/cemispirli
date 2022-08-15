@@ -65,6 +65,7 @@
  - <a href="https://random-user-app8.netlify.app/" target="_blank" >Random User App</a>
  - <a href="https://firebase-movie-app.netlify.app/" target="_blank" >Firebase Movie App</a>
  - <a href="https://recipe-app-github.netlify.app/" target="_blank" >Recipe App</a>
+ - <a href="https://website-page-with-router.netlify.app/" target="_blank" >Website Page Design with router</a>
  - <a href="https://cemispirli.github.io/task-tracker/" target="_blank" >Task Tracker</a>
  - <a href="https://cemispirli.github.io/language-cards/" target="_blank" >Language Cards</a>                                                                       
  - <a href="https://cemispirli.github.io/tour-project/" target="_blank" >React Tour Project</a>
@@ -93,7 +94,6 @@
 - <a href="https://cemispirli.github.io/Bootstrap-Clarusway-School-Project/" target="_blank" >Bootstrap Clarusway School Project</a>
 - <a href="https://cemispirli.github.io/Team-Members-Page/" target="_blank" >Team Members Page</a>
 - <a href="https://cemispirli.github.io/Sass-Project/" target="_blank" >Sass Project</a>
-- <a href="https://cemispirli.github.io/Website-Page-Design/" target="_blank" >Website Page Design</a>
 - <a href="https://cemispirli.github.io/Checkout-Form/" target="_blank" >Checkout Form</a>
 - <a href="https://cemispirli.github.io/Parallax-Website//" target="_blank" >Parallax Website</a>
 - <a href="https://cemispirli.github.io/Google-Landing-Page/" target="_blank" >Google Landing Page</a>
