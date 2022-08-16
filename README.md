@@ -57,7 +57,10 @@
                                                                                                
 ## :star2: My Projects: 
 
-
+ ### ⭐ Django: 
+ 
+  - <a href="https://jamespearly.pythonanywhere.com/" target="_blank" >Todo App</a>
+ 
  ### ⭐ React: 
  
  
