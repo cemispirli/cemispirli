@@ -69,38 +69,38 @@
  - <a href="https://firebase-movie-app.netlify.app/" target="_blank" >Firebase Movie App</a>
  - <a href="https://recipe-app-github.netlify.app/" target="_blank" >Recipe App</a>
  - <a href="https://website-page-with-router.netlify.app/" target="_blank" >Website Page Design with router</a>
- - <a href="https://cemispirli.github.io/task-tracker/" target="_blank" >Task Tracker</a>
- - <a href="https://cemispirli.github.io/language-cards/" target="_blank" >Language Cards</a>                                                                       
- - <a href="https://cemispirli.github.io/tour-project/" target="_blank" >React Tour Project</a>
- - <a href="https://cemispirli.github.io/birthdayreminder/" target="_blank" >Birthday Reminder</a>  
+ - <a href="https://darthvader-08.github.io/task-tracker/" target="_blank" >Task Tracker</a>
+ - <a href="https://darthvader-08.github.io/language-cards/" target="_blank" >Language Cards</a>                                                                       
+ - <a href="https://darthvader-08.github.io/tour-project/" target="_blank" >React Tour Project</a>
+ - <a href="https://darthvader-08.github.io/birthdayreminder/" target="_blank" >Birthday Reminder</a>  
                                                                        
  
  ### ⭐ JavaScript:
  
 
  
-- <a href="https://cemispirli.github.io/Jquery-Weather-App/" target="_blank" >Jquery Weather App</a>
-- <a href="https://cemispirli.github.io/Country-Information-Project/" target="_blank" >Country Information Project</a>
-- <a href="https://cemispirli.github.io/Movie-Seat-App/" target="_blank" >Movie Seat App</a>
-- <a href="https://cemispirli.github.io/StopWatch/" target="_blank" >StopWatch</a>
-- <a href="https://cemispirli.github.io/Weather_App/" target="_blank" >Weather App</a> 
-- <a href="https://cemispirli.github.io/Digital-Clock/" target="_blank" >Digital Clock</a>
-- <a href="https://cemispirli.github.io/Checkout-Page/" target="_blank" >Checkout Page and Shopping Bag</a>
-- <a href="https://cemispirli.github.io/IOS-Calculator/" target="_blank" >IOS Calculator</a>
-- <a href="https://cemispirli.github.io/ToDo-App/" target="_blank" >ToDo App</a>
-- <a href="https://cemispirli.github.io/Find-The-Number-Game/" target="_blank" >Find The Number Game</a>
-- <a href="https://cemispirli.github.io/Lottery-Game/" target="_blank" >Lottery Game</a>
-- <a href="https://cemispirli.github.io/Exact-Age-Calculator/" target="_blank" >Exact Age Calculator</a>
+- <a href="https://darthvader-08.github.io/Jquery-Weather-App/" target="_blank" >Jquery Weather App</a>
+- <a href="https://darthvader-08.github.io/Country-Information-Project/" target="_blank" >Country Information Project</a>
+- <a href="https://darthvader-08.github.io/Movie-Seat-App/" target="_blank" >Movie Seat App</a>
+- <a href="https://darthvader-08.github.io/StopWatch/" target="_blank" >StopWatch</a>
+- <a href="https://darthvader-08.github.io/Weather_App/" target="_blank" >Weather App</a> 
+- <a href="https://darthvader-08.github.io/Digital-Clock/" target="_blank" >Digital Clock</a>
+- <a href="https://darthvader-08.github.io/Checkout-Page/" target="_blank" >Checkout Page and Shopping Bag</a>
+- <a href="https://darthvader-08.github.io/IOS-Calculator/" target="_blank" >IOS Calculator</a>
+- <a href="https://darthvader-08.github.io/ToDo-App/" target="_blank" >ToDo App</a>
+- <a href="https://darthvader-08.github.io/Find-The-Number-Game/" target="_blank" >Find The Number Game</a>
+- <a href="https://darthvader-08.github.io/Lottery-Game/" target="_blank" >Lottery Game</a>
+- <a href="https://darthvader-08.github.io/Exact-Age-Calculator/" target="_blank" >Exact Age Calculator</a>
 
 
  ### ⭐ Html-Css-Bootstrap-Sass:
-- <a href="https://cemispirli.github.io/Bootstrap-Clarusway-School-Project/" target="_blank" >Bootstrap Clarusway School Project</a>
-- <a href="https://cemispirli.github.io/Team-Members-Page/" target="_blank" >Team Members Page</a>
-- <a href="https://cemispirli.github.io/Sass-Project/" target="_blank" >Sass Project</a>
-- <a href="https://cemispirli.github.io/Checkout-Form/" target="_blank" >Checkout Form</a>
-- <a href="https://cemispirli.github.io/Parallax-Website//" target="_blank" >Parallax Website</a>
-- <a href="https://cemispirli.github.io/Google-Landing-Page/" target="_blank" >Google Landing Page</a>
-- <a href="https://cemispirli.github.io/Survey-Form-Netflix/" target="_blank" >Survey Form Netflix</a>
+- <a href="https://darthvader-08.github.io/Bootstrap-Clarusway-School-Project/" target="_blank" >Bootstrap Clarusway School Project</a>
+- <a href="https://darthvader-08.github.io/Team-Members-Page/" target="_blank" >Team Members Page</a>
+- <a href="https://darthvader-08.github.io/Sass-Project/" target="_blank" >Sass Project</a>
+- <a href="https://darthvader-08.github.io/Checkout-Form/" target="_blank" >Checkout Form</a>
+- <a href="https://darthvader-08.github.io/Parallax-Website//" target="_blank" >Parallax Website</a>
+- <a href="https://darthvader-08.github.io/Google-Landing-Page/" target="_blank" >Google Landing Page</a>
+- <a href="https://darthvader-08.github.io/Survey-Form-Netflix/" target="_blank" >Survey Form Netflix</a>
 
  <!--
   ### ⭐ React: 
