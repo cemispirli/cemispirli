@@ -164,4 +164,4 @@
 <p align="center"> <img height="160em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarthVader-08&layout=compact&langs_count=8&theme=algolia"/> </p>
                                                                      
 
-<!-- [![Image of https://github.com/DarthVader-08/github-profile-views-counter](https://github.com/DarthVader-08/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/DarthVader-08/github-profile-views-counter) -->
+<!--  [![Image of https://github.com/DarthVader-08/github-profile-views-counter](https://github.com/DarthVader-08/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/DarthVader-08/github-profile-views-counter) -->
