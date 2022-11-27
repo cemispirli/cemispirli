@@ -2,6 +2,7 @@
   <img src="https://www.icegif.com/wp-content/uploads/icegif-87.gif" width="600" height="200" />
 </div> -->
  
+ 
 ## Hi there...:wave:
 - :house: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
