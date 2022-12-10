@@ -59,7 +59,9 @@
                                                                                                
 ## :star2: My Projects: 
 
-<!--  ### ⭐ Django:  -->
+ ### ⭐ Django: 
+ 
+ - <a href="https://jamespearly.pythonanywhere.com/" target="_blank" >Django-BlogApp</a>
  
 <!--   - <a href="https://jamespearly.pythonanywhere.com/" target="_blank" >Todo App</a> -->
  
