@@ -88,7 +88,6 @@
 - <a href="https://cemispirli.github.io/Country-Information-Project/" target="_blank" >Country Information Project</a>
 - <a href="https://cemispirli.github.io/Movie-Seat-App/" target="_blank" >Movie Seat App</a>
 - <a href="https://cemispirli.github.io/StopWatch/" target="_blank" >StopWatch</a>
-- <a href="https://cemispirli.github.io/Weather_App/" target="_blank" >Weather App</a>
 - <a href="https://cemispirli.github.io/Checkout-Page/" target="_blank" >Checkout Page and Shopping Bag</a>
 - <a href="https://cemispirli.github.io/IOS-Calculator/" target="_blank" >IOS Calculator</a>
 - <a href="https://cemispirli.github.io/ToDo-App/" target="_blank" >ToDo App</a>
