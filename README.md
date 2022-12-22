@@ -4,7 +4,10 @@
  
  
 ## Hi there...:wave:
-- :house: I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+-   I'm a frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+-  I started my journey at the end of 21.
+-  I have proficiency to work in HTML5, CSS3 and JS and React. 
+-  I am currently focused on learning Django.
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
