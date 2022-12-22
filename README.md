@@ -8,6 +8,9 @@
 -  I started my journey at the end of 21.
 -  I have proficiency to work in HTML5, CSS3 and JS and React. 
 -  I am currently focused on learning Django.
+
+ ### ➡️ <a href="https://myportfolio-cem.netlify.app/" target="_blank" >MyPortfolio</a> 
+
 <!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
