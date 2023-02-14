@@ -66,11 +66,11 @@
                                                                                                
 ## :star2: My Projects: 
 
-<a href="https://github.com/cemispirli/React-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><button  
-style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 12rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>React Projects</b> (Click Me)</button></a>
-<a href="https://github.com/cemispirli/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 16rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>JavaScript Projects</b> (Click Me)</button></a>
-<a href="https://github.com/cemispirli/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 14rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>Html-Css Projects</b> (Click Me)</button></a>
-<a href="https://github.com/cemispirli/Django-Projects" target="_blank" style="text-decoration: none;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3);  width: 12rem;border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>Django Projects</b> (Click Me)</button></a>
+<a href="https://github.com/cemispirli/React-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><img src="./img/react.png"  ></a>
+
+<a href="https://github.com/cemispirli/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><img src="./img/java.png"  ></a>
+<a href="https://github.com/cemispirli/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><img src="./img/html.png"  ></a>
+<a href="https://github.com/cemispirli/Django-Projects" target="_blank" style="text-decoration: none;"><img src="./img/django.png"  ></a>
             
 
 
