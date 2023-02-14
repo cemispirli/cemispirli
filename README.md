@@ -66,26 +66,12 @@
                                                                                                
 ## :star2: My Projects: 
 
-<table class="table">  
-            <thead>
-              <tr>
-                <th style=" text-align: center; width: 20rem;"
-                   >React Projects</th>
-                <th style=" text-align: center;width: 20rem;"  >JavaScript Projects</th>
-                <th style=" text-align: center;width: 20rem;" >Html-Css Projects</th>
-                <th style=" text-align: center;width: 20rem;"  >Django Projects</th>
-              </tr>
-            </thead>
-            <tbody>
-               <tr>
-                <td style=" text-align: center;"><a href="https://github.com/cemispirli/React-Projects" target="_blank" style="text-decoration: none;"><button  
-                style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 12rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>React Projects</b> (Click Me)</button></a></td>
-                <td style=" text-align: center;"><a href="https://github.com/cemispirli/JavaScript-Projects" target="_blank" style="text-decoration: none;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 16rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>JavaScript Projects</b> (Click Me)</button></a></td>
-                <td style=" text-align: center;"><a href="https://github.com/cemispirli/Html-Css-Projects" target="_blank" style="text-decoration: none;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 14rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>Html-Css Projects</b> (Click Me)</button></a></td>
-                <td style=" text-align: center;"><a href="https://github.com/cemispirli/Django-Projects" target="_blank" style="text-decoration: none;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3);  width: 12rem;border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>Django Projects</b> (Click Me)</button></a></td>
-              </tr>
-             </tbody>
-          </table>
+<a href="https://github.com/cemispirli/React-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><button  
+style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 12rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>React Projects</b> (Click Me)</button></a>
+<a href="https://github.com/cemispirli/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 16rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>JavaScript Projects</b> (Click Me)</button></a>
+<a href="https://github.com/cemispirli/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 14rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>Html-Css Projects</b> (Click Me)</button></a>
+<a href="https://github.com/cemispirli/Django-Projects" target="_blank" style="text-decoration: none;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3);  width: 12rem;border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>Django Projects</b> (Click Me)</button></a>
+            
 
 
 
