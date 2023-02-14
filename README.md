@@ -66,10 +66,10 @@
                                                                                                
 ## :star2: My Projects: 
 
-  <a href="https://github.com/cemispirli/React-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;  "><img src="./img/react.png" style="height:100px; width: 250px;" ></a>  
-  <a href="https://github.com/cemispirli/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><img src="./img/java.png" style="height:100px; width: 350px;" ></a>
-  <a href="https://github.com/cemispirli/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><img src="./img/html.png" style="height:100px; width:300px;" ></a>
-  <a href="https://github.com/cemispirli/Django-Projects" target="_blank" style="text-decoration: none;"><img src="./img/django.png" style="height:100px; width: 250px;" ></a>
+  <a href="https://github.com/cemispirli/React-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;  "><img src="./img/react.png" style="height:60px; width: 150px;" ></a>  
+  <a href="https://github.com/cemispirli/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><img src="./img/java.png" style="height:60px; width: 210px;" ></a>
+  <a href="https://github.com/cemispirli/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 15px;"><img src="./img/html.png" style="height:60px; width:180px;" ></a>
+  <a href="https://github.com/cemispirli/Django-Projects" target="_blank" style="text-decoration: none;"><img src="./img/django.png" style="height:60px; width: 150px;" ></a>
             
 
 
