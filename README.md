@@ -66,16 +66,36 @@
                                                                                                
 ## :star2: My Projects: 
 
+<table class="table">  
+            <thead>
+              <tr>
+                <th style=" text-align: center; width: 20rem;"
+                   >React Projects</th>
+                <th style=" text-align: center;width: 20rem;"  >JavaScript Projects</th>
+                <th style=" text-align: center;width: 20rem;" >Html-Css Projects</th>
+                <th style=" text-align: center;width: 20rem;"  >Django Projects</th>
+              </tr>
+            </thead>
+            <tbody>
+               <tr>
+                <td style=" text-align: center;"><a href="https://github.com/cemispirli/React-Projects" target="_blank" style="text-decoration: none;"><button  
+                style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 12rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>React Projects</b> (Click Me)</button></a></td>
+                <td style=" text-align: center;"><a href="https://github.com/cemispirli/JavaScript-Projects" target="_blank" style="text-decoration: none;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 16rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>JavaScript Projects</b> (Click Me)</button></a></td>
+                <td style=" text-align: center;"><a href="https://github.com/cemispirli/Html-Css-Projects" target="_blank" style="text-decoration: none;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3); width: 14rem; border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>Html-Css Projects</b> (Click Me)</button></a></td>
+                <td style=" text-align: center;"><a href="https://github.com/cemispirli/Django-Projects" target="_blank" style="text-decoration: none;"><button style="background:linear-gradient(to right, #4aee62, #1d9cfd, #b064e3);  width: 12rem;border: 1px solid #ccc;  border-radius: 5px;  padding: 10px 20px;  font-size: 16px;  cursor: pointer; color:white;"><b>Django Projects</b> (Click Me)</button></a></td>
+              </tr>
+             </tbody>
+          </table>
+
+
+
+<!--
  ### ⭐ Django: 
  
  - <a href="https://jamespearly.pythonanywhere.com/" target="_blank" >Django-BlogApp</a>
  
-<!--   - <a href="https://jamespearly.pythonanywhere.com/" target="_blank" >Todo App</a> -->
- 
  ### ⭐ React: 
- 
-                                                                     
- 
+
  - <a href="https://firebase-contact-app08.netlify.app/" target="_blank" >Firebase Contact App</a>
  - <a href="https://random-user-app8.netlify.app/" target="_blank" >Random User App</a>
  - <a href="https://firebase-movie-app.netlify.app/" target="_blank" >Firebase Movie App</a>
@@ -85,11 +105,8 @@
  - <a href="https://cemispirli.github.io/language-cards/" target="_blank" >Language Cards</a>                                                                     
  - <a href="https://cemispirli.github.io/tour-project/" target="_blank" >React Tour Project</a>
  - <a href="https://cemispirli.github.io/birthdayreminder/" target="_blank" >Birthday Reminder</a>  
-                                                                       
- 
+     
  ### ⭐ JavaScript:
- 
-
  
 - <a href="https://cemispirli.github.io/Jquery-Weather-App/" target="_blank" >Jquery Weather App</a>
 - <a href="https://cemispirli.github.io/Country-Information-Project/" target="_blank" >Country Information Project</a>
@@ -101,7 +118,6 @@
 - <a href="https://cemispirli.github.io/Find-The-Number-Game/" target="_blank" >Find The Number Game</a>
 - <a href="https://cemispirli.github.io/Lottery-Game/" target="_blank" >Lottery Game</a>
 - <a href="https://cemispirli.github.io/Exact-Age-Calculator/" target="_blank" >Exact Age Calculator</a>
-
 
  ### ⭐ Html-Css-Bootstrap-Sass:
 - <a href="https://cemispirli.github.io/Bootstrap-Clarusway-School-Project/" target="_blank" >Bootstrap Clarusway School Project</a>
@@ -111,61 +127,7 @@
 - <a href="https://cemispirli.github.io/Parallax-Website//" target="_blank" >Parallax Website</a>
 - <a href="https://cemispirli.github.io/Google-Landing-Page/" target="_blank" >Google Landing Page</a>
 - <a href="https://cemispirli.github.io/Survey-Form-Netflix/" target="_blank" >Survey Form Netflix</a>
-
- <!--
-  ### ⭐ React: 
- 
- 
- 
- 
- - <a href="https://random-user-app8.netlify.app/" target="_blank" >Random User App 2</a>
- - <a href="https://firebase-movie-app.netlify.app/" target="_blank" >Firebase Movie App</a>
- - <a href="https://recipe-app-github.netlify.app/" target="_blank" >Recipe App</a>
- - <a href="https://cemispirli.github.io/random-user-app/" target="_blank" >Random User App</a>
- - <a href="https://cemispirli.github.io/task-tracker/" target="_blank" >Task Tracker</a>
- - <a href="https://cemispirli.github.io/language-cards/" target="_blank" >Language Cards</a>                                                                       
- - <a href="https://cemispirli.github.io/tour-project/" target="_blank" >React Tour Project</a>
- - <a href="https://cemispirli.github.io/birthdayreminder/" target="_blank" >Birthday Reminder</a>  
-                                                                       
- 
- ### ⭐ JavaScript:
- 
-
- 
-- <a href="https://cemispirli.github.io/Jquery-Weather-App/" target="_blank" >Jquery Weather App</a>
-- <a href="https://cemispirli.github.io/Country-Information-Project/" target="_blank" >Country Information Project</a>
-- <a href="https://cemispirli.github.io/Movie-Seat-App/" target="_blank" >Movie Seat App</a>
-- <a href="https://cemispirli.github.io/StopWatch/" target="_blank" >StopWatch</a>
-- <a href="https://cemispirli.github.io/Weather_App/" target="_blank" >Weather App</a> 
-- <a href="https://cemispirli.github.io/Digital-Clock/" target="_blank" >Digital Clock</a>
-- <a href="https://cemispirli.github.io/Checkout-Page/" target="_blank" >Checkout Page and Shopping Bag</a>
-- <a href="https://cemispirli.github.io/Palindromic-and-Perfect-Numbers/" target="_blank" >Palindromic and Perfect Numbers</a>
-- <a href="https://cemispirli.github.io/IOS-Calculator/" target="_blank" >IOS Calculator</a>
-- <a href="https://cemispirli.github.io/ToDo-App/" target="_blank" >ToDo App</a>
-- <a href="https://cemispirli.github.io/Find-The-Number-Game/" target="_blank" >Find The Number Game</a>
-- <a href="https://cemispirli.github.io/Lottery-Game/" target="_blank" >Lottery Game</a>
-- <a href="https://cemispirli.github.io/Capital-Letters/" target="_blank" >Capital Letters</a>
-- <a href="https://cemispirli.github.io/Draw-Diamond/" target="_blank" >Draw Diamond</a>
-- <a href="https://github.com/cemispirli/Email-Validation" target="_blank" >Email Validation</a>
-- <a href="https://cemispirli.github.io/Simple-Calculator/" target="_blank" >Simple Calculator</a>
-- <a href="https://cemispirli.github.io/Exact-Age-Calculator/" target="_blank" >Exact Age Calculator</a>
-- <a href="https://github.com/cemispirli/Fibonacci-Number" target="_blank" >Fibonacci Number</a>
-- <a href="https://github.com/cemispirli/Reverse-Words" target="_blank" >Reverse Words</a>
-- <a href="https://github.com/cemispirli/Bracket-Validator" target="_blank" >Bracket Validator</a>
-
-
- ### ⭐ Html-Css-Bootstrap-Sass:
-- <a href="https://cemispirli.github.io/Bootstrap-Clarusway-School-Project/" target="_blank" >Bootstrap Clarusway School Project</a>
-- <a href="https://cemispirli.github.io/Team-Members-Page/" target="_blank" >Team Members Page</a>
-- <a href="https://cemispirli.github.io/Css-Grid//" target="_blank" >Css Grid</a>
-- <a href="https://cemispirli.github.io/Sass-Project/" target="_blank" >Sass Project</a>
-- <a href="https://cemispirli.github.io/Website-Page-Design/" target="_blank" >Website Page Design</a>
-- <a href="https://cemispirli.github.io/Checkout-Form/" target="_blank" >Checkout Form</a>
-- <a href="https://cemispirli.github.io/Parallax-Website//" target="_blank" >Parallax Website</a>
-- <a href="https://cemispirli.github.io/Css-Blog/" target="_blank" >Css Blog</a>
-- <a href="https://cemispirli.github.io/Google-Landing-Page/" target="_blank" >Google Landing Page</a>
-- <a href="https://cemispirli.github.io/Survey-Form-Clarusway/" target="_blank" >Survey Form Clarusway</a>
-- <a href="https://cemispirli.github.io/Survey-Form-Netflix/" target="_blank" >Survey Form Netflix</a>                                                                            
+                                                                      
  -->
                                                                                                                                
 ## :fire: My Statistics :
