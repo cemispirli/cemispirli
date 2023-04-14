@@ -6,9 +6,9 @@
  
 ## Hi there...:wave:
 -   I'm a frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
--  I started my journey at the end of 21.
+<!-- -  I started my journey at the end of 21. -->
 -  I have proficiency to work in HTML5, CSS3 and JS and React. 
--  I am currently focused on learning Django.
+<!-- -  I am currently focused on learning Django. -->
 
  ### ➡️ <a href="https://myportfolio-cem.netlify.app/" target="_blank" >MyPortfolio</a> 
 
