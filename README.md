@@ -23,9 +23,9 @@
 <!-- [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@cemispirli08) -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cemispirli" alt="cemispirli"/></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemispirli" alt="cemispirli"/></p> -->
+[![Image of https://github.com/cemispirli/github-profile-views-counter](https://github.com/cemispirli/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/cemispirli/github-profile-views-counter)
 
-<!-- [![Image of https://github.com/cemispirli/github-profile-views-counter](https://github.com/cemispirli/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/cemispirli/github-profile-views-counter) -->
 
 ## :hammer_and_wrench: Languages and Tools :
 
