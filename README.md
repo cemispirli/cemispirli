@@ -114,7 +114,8 @@
 - <a href="https://cemispirli.github.io/Survey-Form-Netflix/" target="_blank" >Survey Form Netflix</a>
                                                                       
  -->
-                                                                                                                               
+
+                                                                                                                                
 ## :fire: My Statistics :
  
 <p align="center">
